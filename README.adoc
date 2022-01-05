@@ -1,0 +1,33 @@
+= Document Name  // TODO:
+Reece Chimento <rchimento.code@gmail.com>
+2022-01-05, 0.0.1: Initial draft  // TODO:
+:toc: macro
+:toc-levels: 3
+:toc-title: Content
+:imagesdir: img/
+:homepage: https://www.example.com  // TODO:
+:icons: font
+:data-uri:  // TODO:
+:source-highlighter: pygments
+:pygments-style: material
+:pygments-linenums-mode: inline
+
+toc::[]
+
+== Features
+=== TODO:FEATURE_0
+=== TODO:FEATURE_1
+=== TODO:FEATURE_2
+=== TODO:FEATURE_N
+
+== Install
+# TODO: install requirements
+# TODO: install procedure
+
+== Documentation
+# TODO: how to access documentation
+# TODO: help <feature>
+
+== FAQ
+
+== TODO

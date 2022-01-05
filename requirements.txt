@@ -1,2 +1,6 @@
-
+tox
+pytest
+pytest-cov
+pytest-randomly
+mypy
 -e .  # Necessary for editable installs

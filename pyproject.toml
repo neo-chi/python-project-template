@@ -1,0 +1,4 @@
+[build-system]
+# These are the defualt build requirements for pip.
+requires = ["setuptools>=60.2.0", "wheel>=0.37.1"]
+build-backend = "setuptools.build_meta"

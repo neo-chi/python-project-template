@@ -3,4 +3,10 @@ pytest
 pytest-cov
 pytest-randomly
 mypy
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+ruamel.yaml
 -e .  # Necessary for editable installs

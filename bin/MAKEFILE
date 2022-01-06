@@ -1,5 +1,0 @@
-test:
-    pytest3 -vv     
-pdf:
-    asciidoctor-pdf ./docs/_static/main.adoc
-

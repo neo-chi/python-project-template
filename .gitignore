@@ -1,2 +1,7 @@
 *.egg-info
-__pycache__
+/.vars/
+/.venv/
+/temp/
+__pycache__/
+/.vscode/
+/test/
